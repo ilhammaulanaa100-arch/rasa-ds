@@ -1,0 +1,17 @@
+# deps
+node_modules/
+# build output
+dist/
+.astro/
+build/
+src/styles/tokens.css
+# env
+.env
+.env.*
+!.env.example
+# os / editor
+.DS_Store
+.vscode/
+.idea/
+# vercel
+.vercel/
